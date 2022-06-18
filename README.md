@@ -1,0 +1,2 @@
+# Solgabot
+Playing Shelp
